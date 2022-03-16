@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 💬 Ask me about JS/React/Node and quizzing, India/Thailand travel advice :)
+- 💬 Ask me about JS/React/Node/Django/DRF and quizzing, India/Thailand travel advice :)
 - 📫 How to reach me: aman@bhargava.tech
 - 😄 Pronouns: he/him
 
